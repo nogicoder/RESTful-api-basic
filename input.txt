@@ -1,0 +1,8 @@
+METHOD=GET
+URL=https://slack.com/api/
+APIMethod=conversations.history
+PARAM=?token=xoxp-452524853910-451370217669-533800472723-3edf17d1778f3f87422216be8e9aaadc,channel=CD9A8SG13,name=,cursor=,inclusive=,latest=,limit=5,oldest=0,pretty=1,ts=,query=API,user=UD9AW6DKP,text=This Project is cancelled!!!(Sending this with mbach's API)
+
+--POST--
+
+[HEADERS]

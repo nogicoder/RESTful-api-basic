@@ -1,0 +1,60 @@
+{
+    "ok": true,
+    "messages": [
+        {
+            "client_msg_id": "efe25ab4-595a-48a6-a165-b52c08c2b292",
+            "type": "message",
+            "text": "this project is cancel!",
+            "user": "UD8V7KJBE",
+            "ts": "1548491310.027800"
+        },
+        {
+            "type": "message",
+            "subtype": "bot_message",
+            "text": "This Project is cancelled!!!(Sending this with mbach's API)",
+            "ts": "1548491233.027500",
+            "username": "Slack API Tester",
+            "bot_id": "BFP4SSTJL"
+        },
+        {
+            "type": "message",
+            "subtype": "me_message",
+            "text": "Sending this with my API also ;)",
+            "user": "UD9AW6DKP",
+            "ts": "1548490356.025800",
+            "reactions": [
+                {
+                    "name": "face_with_monocle",
+                    "users": [
+                        "UD9AX4C2H"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "cd99d6c0-1bee-46b1-ab7b-119439bd7f7a",
+            "type": "message",
+            "text": "Yi =)))",
+            "user": "UD9AW6DKP",
+            "ts": "1548490317.025700"
+        },
+        {
+            "client_msg_id": "F79B2E68-6972-4421-BEC3-7C4B0F2D6506",
+            "type": "message",
+            "text": "_Wow are you sending this with your API?_",
+            "user": "UD9AX4C2H",
+            "ts": "1548490303.025500",
+            "edited": {
+                "user": "UD9AX4C2H",
+                "ts": "1548490657.000000"
+            }
+        }
+    ],
+    "has_more": true,
+    "is_limited": false,
+    "pin_count": 0,
+    "response_metadata": {
+        "next_cursor": "bmV4dF90czoxNTQ4NDkwMjc2MDI1MDAw"
+    }
+}
